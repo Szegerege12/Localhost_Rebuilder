@@ -1,6 +1,6 @@
 beautifulsoup4==4.8.2
 flasgger==0.9.4
-Flask==0.12.5
+Flask==1.0
 Flask-Cors==3.0.8
 flask-restx==0.13.0
 lxml==4.5.0
