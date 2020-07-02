@@ -1,0 +1,43 @@
+yarn install v1.16.0
+info No lockfile found.
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+info fsevents@2.1.3: The platform "freebsd" is incompatible with this module.
+info "fsevents@2.1.3" is an optional dependency and failed compatibility check. Excluding it from installation.
+info fsevents@1.2.13: The platform "freebsd" is incompatible with this module.
+info "fsevents@1.2.13" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+Done in 47.08s.
+success open and validate gatsby-configs - 0.039s
+success load plugins - 0.174s
+success onPreInit - 0.007s
+success delete html and css files from previous builds - 0.009s
+success initialize cache - 0.008s
+success copy gatsby files - 0.032s
+success onPreBootstrap - 0.005s
+success createSchemaCustomization - 0.002s
+success source and transform nodes - 3.638s
+success building schema - 0.423s
+success createPages - 20.780s
+success createPagesStatefully - 0.067s
+success updating schema - 0.351s
+success onPreExtractQueries - 0.001s
+warn Using the global `graphql` tag is deprecated, and will not be supported in v3.
+Import it instead like:  import { graphql } from 'gatsby' in file:
+/usr/home/VPPoland/domains/rebuilder.localhost-group.com/public_python/grono-woo-gatsby/src/componen
+success extract queries from components - 0.998s
+success write out redirect data - 0.002s
+success onPostBootstrap - 0.001s
+info bootstrap finished - 29.636s
+success run static queries - 1.470s - 7/7 4.76/s
+success run page queries - 0.094s - 132/132 1402.20/s
+success write out requires - 0.008s
+success Building production JavaScript and CSS bundles - 30.440s
+success Rewriting compilation hashes - 0.002s
+success Building static HTML for pages - 6.951s - 132/132 18.99/s
+success Zopfli compression - 98.103s -  150/150
+info Zopfli compression total payload reduced 13 MB
+success onPostBuild - 98.466s
+info Done building in 167.62728556 sec
